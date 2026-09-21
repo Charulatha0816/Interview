@@ -1,7 +1,5 @@
 // MongoDB Student Management
 
-use Students
-
 // 1. Display all students
 db.students.find().pretty()
 
